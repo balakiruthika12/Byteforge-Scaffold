@@ -115,12 +115,3 @@ ByteForge-Scaffold/
 
 ---
 
-## 🔒 Security & License
-
-**Proprietary Software**
-Copyright (c) 2026 Arjumaan.M. All Rights Reserved.
-
-This software is the confidential and proprietary information of Arjumaan.M. Unauthorized reproduction, distribution, or use is strictly prohibited.
-
----
-*Built with ❤️ by ByteForge Team for Advanced Security Testing.*
